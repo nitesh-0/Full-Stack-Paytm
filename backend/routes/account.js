@@ -10,10 +10,10 @@ router.get("/balance", authMiddleware, async (req, res) => {
         userId: req.userId
     });
 
-    console.log(account);
+    const balnce = account.balance
 
     res.json({
-        balance: account.balance
+        balnce
     })
 
 });
