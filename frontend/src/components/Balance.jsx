@@ -1,4 +1,5 @@
 export const Balance = ({ value }) => {
+    console.log(value)
     return <div className="flex">
         <div className="font-bold text-lg">
             Your balance
