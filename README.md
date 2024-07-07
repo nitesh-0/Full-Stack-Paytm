@@ -28,3 +28,8 @@ The login page for users to enter their credentials. Redirects authenticated use
 The main page after user login. Displays an overview of the user's account, recent transactions, and other important information.
 Transactions: /sendmoney
 A detailed view of the user's transaction history. Includes options to filter and search through past transactions.
+
+
+## Acknowledgements
+100xdevs Community: For providing the platform and resources.
+Mentor: Harkirat Singh, for guidance and support.
